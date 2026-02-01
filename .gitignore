@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Claude Code
+.claude/settings.local.json
